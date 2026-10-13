@@ -1,43 +1,46 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Hi,%20I'm%20Rachna%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="header" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&height=30&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Full+stack+developer;Frontend+at+heart;Currently+exploring+AI+%26+LLMs" alt="Typing SVG" /></a>
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Hi,%20I'm%20Rachna%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn)
+### 👩‍💻 About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=560&lines=Full+stack+developer;Frontend+at+heart;Currently+exploring+AI+%26+LLMs;Learning+in+public+%F0%9F%8C%B1)](https://git.io/typing-svg)
+- 💻 Full stack developer working with **React, Next.js, and FastAPI**
+- 🎨 Started on the frontend and still love crafting clean, fast UIs
+- 🔭 Building an [LLM observability & evaluation tool](https://github.com/RachnaHarlalka/tracewise) to learn how AI apps are traced and tested
+- 🌱 Learning in public: prompt evaluation, LLM-as-judge, and observability
+- 💬 Happy to chat about frontend, full stack, or AI. Say hi below!
 
-</div>
+### 🧰 Tech I use
 
-### 🌱 About me
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="40" alt="React" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" alt="Tailwind CSS" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40" alt="Python" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="40" alt="FastAPI" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="40" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40" alt="AWS" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="40" alt="Docker" />
+</p>
 
-I build web apps, mostly with React and Python. I started out on the frontend, slowly made my way across the stack, and these days I'm curious about how AI systems work behind the scenes.
+### 📊 GitHub activity
 
-Right now I'm building an **LLM observability & evaluation tool** to understand how you monitor, measure, and trust what an AI model does. This profile is where I learn in public.
+| ![Rachna's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachnaHarlalka&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RachnaHarlalka&layout=compact&theme=tokyonight&hide_border=true) |
+| --- | --- |
 
-### 🔭 Currently working on
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RachnaHarlalka&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-- 🔍 [Tracewise](https://github.com/RachnaHarlalka/tracewise): tracing, metrics, and evals for LLM apps
-- 📚 Learning about prompt evaluation, LLM-as-judge, and AI observability
+### 🤝 Connect with me
 
-### 🧰 Things I work with
+<p align="left">
+  <a href="https://www.linkedin.com/in/rachna-harlalka-0744091b9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:rachnaa1705@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,fastapi,postgres,aws,docker&perline=9)](https://skillicons.dev)
-
-### 📊 Activity
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=RachnaHarlalka&theme=tokyonight&hide_border=true)
-
-<!-- Add the snake animation later (search "Platane/snk") -->
-
-</div>
-
-### 📫 Say hi
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/rachna-harlalka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachnaa1705@gmail.com)
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" alt="footer" />
+</p>
